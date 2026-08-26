@@ -49,7 +49,8 @@ Click the **Contribute** badge above to launch a preconfigured workspace with Po
 
 1. **init-eap7** — Downloads the PostgreSQL driver, configures the datasource, and starts EAP 7
 2. **build** — `mvn clean install -DskipTests`
-3. **deploy-eap7** — Deploys the EAR to JBoss EAP 7 via CLI
+3. **Start EAP** - Starts the JBoss EAP 7 server
+4. **deploy-eap7** — Deploys the EAR to JBoss EAP 7 via CLI
 
 ## Project Structure
 
